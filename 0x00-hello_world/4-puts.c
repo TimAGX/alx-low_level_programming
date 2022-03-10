@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
  *main - print programming is like a building a multilingual puzzle
- *return: 0 use puts function
+ *Return: 0 use puts function
  */
 int main(void)
 {
