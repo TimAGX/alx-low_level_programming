@@ -1,8 +1,4 @@
-/**
- * display 
- */
 #include <stdio.h>
-
 /**
  * print programming is like a building a multilingual puzzle
  * use puts function
